@@ -1,2 +1,4 @@
 # acme-webdesign
-A mobile ready design template
+i mobile ready design template
+
+![screenshot](https://raw.githubusercontent.com/Trailingslashes/acme-webdesign/master/img/screencapture.png)
